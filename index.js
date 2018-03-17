@@ -16,7 +16,7 @@
    return city === 'NYC'? 'Ok, sounds good.': 'No go.';
  }
  
- function swtichOnCharmFromTip(tip){
+ function switchOnCharmFromTip(tip){
    switch(tip){
      case tip > 5: 
        return "Thank you so much.";
