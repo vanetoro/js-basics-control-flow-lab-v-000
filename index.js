@@ -19,7 +19,7 @@
  function swtichOnCharmFromTip(tip){
    switch(tip){
      case tip > 5: 
-       return "Thank you!";
+       return "Thank you so much.";
        break;
    }
  }
