@@ -20,11 +20,10 @@
    switch(tip){
      case tip > 5: 
        return "Thank you so much.";
-       break;
     case tip > 2 && tip < 5:
       return 'Thank you';
-      break;
-   default
+   default:
+    return 'Bye'
     
    }
  }
