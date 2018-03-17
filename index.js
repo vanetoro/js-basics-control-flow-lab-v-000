@@ -21,5 +21,11 @@
      case tip > 5: 
        return "Thank you so much.";
        break;
+    case tip > 2 && tip < 5:
+      return 'Thank you';
+      break;
+    case tip < 2:
+      return 'Bye'
+    
    }
  }
