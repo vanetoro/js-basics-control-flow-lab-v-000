@@ -21,7 +21,7 @@
      case tip  === 'generous': 
        return "Thank you so much.";
     case tip === 'not as generous':
-      return 'Thank you';
+      return 'Thank you.';
    default:
     return 'Bye.'
     
