@@ -5,6 +5,7 @@
      return "This one is on me!";
    } else 
         if(distance > 2000){
-      return charge = 30;
+      charge = 30;
+      return charge
    }
  }
