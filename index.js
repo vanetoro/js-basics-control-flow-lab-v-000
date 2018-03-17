@@ -5,7 +5,6 @@
      return "This one is on me!";
    } else 
         if(distance > 2000){
-      charge = 30;
-      return charge
+      return 'I will gladly take your 30 bucks'
    }
  }
