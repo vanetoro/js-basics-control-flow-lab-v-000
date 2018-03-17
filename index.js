@@ -23,7 +23,7 @@
     case tip > 2 && tip < 5:
       return 'Thank you';
    default:
-    return 'Bye'
+    return 'Bye.'
     
    }
  }
