@@ -17,5 +17,7 @@
  }
  
  function swtichOnCharmFromTip(tip){
-   
+   switch(tip){
+     case > 5
+   }
  }
